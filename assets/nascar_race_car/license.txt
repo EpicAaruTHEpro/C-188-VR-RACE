@@ -1,0 +1,11 @@
+Model Information:
+* title:	NASCAR Race car
+* source:	https://sketchfab.com/3d-models/nascar-race-car-1fdc136f995f41abb3b2977d51629808
+* author:	Beardmonkey (https://sketchfab.com/beardmonkey)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NASCAR Race car" (https://sketchfab.com/3d-models/nascar-race-car-1fdc136f995f41abb3b2977d51629808) by Beardmonkey (https://sketchfab.com/beardmonkey) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
